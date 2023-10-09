@@ -110,6 +110,7 @@
  -[Ericode](https://github.com/Ericode254)
 - [Hamza Saeed](https://github.com/HamzaSaeed01)
 - [Sawaira Fatima](https://github.com/sawerafatima)
+- [Vini Mortinho](https://github.com/ViniMortinho)
 - [faea726](https://github.com/faea726)
 - [Methembe Gumbo](https://github.com/Methieg)
 - [Sahil Tembhurkar](https://github.com/sahirooh)
